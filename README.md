@@ -2,7 +2,7 @@
 Bodge-on PCB to add termination (high byte only optional) to existing SCA-IDC50 SCSI adapters
 
 
-What says on the tin. Stick the appropriate files (pick your option) into the JLCPCB site, selecting the assembly option (you don't wanna put these together by hand), wait until you get the boards home, solder to existing adaptor.
+What says on the tin. Stick the appropriate files (pick your option) into the JLCPCB site, selecting the assembly option (you don't wanna put these together by hand), wait until you get the boards home, solder to existing SCA adapter, close appropriate solder bridges following what the bodge PCB itself says.
 
 ![334890346_604718427712712_251567455587610941_n](https://github.com/GeorgeRudolf/SCAterm/assets/24400566/1d413443-ed87-4eb6-b060-ea1234f2b875)
 
